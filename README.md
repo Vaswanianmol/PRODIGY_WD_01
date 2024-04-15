@@ -5,7 +5,7 @@ The landing page is designed to be visually appealing and user-friendly, providi
 The project serves as a  basic showcase for the travel website, allowing visitors to learn about the company, the services provided, and how to get in touch. 
 It can be used as a starting point for building a fully functional website for a travel agency or tour operator.
 
-To get started with the project, follow these steps:
+To get started with the project, follow these steps:                                                                                                                                                                   
 1.Clone or download the project repository to your local machine.
 2.Open the index.html file in a web browser to view the landing page.
 3.Explore the different sections of the landing page, including home, about us, services, and contact.
